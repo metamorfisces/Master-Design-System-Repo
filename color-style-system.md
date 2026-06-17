@@ -12,7 +12,7 @@ Accent colors establish brand identity, visual hierarchy, and emphasis throughou
 
 **Primary**
  
-**Hex:** #0B3B75
+**Hex:** #
 
 Primary brand color used for high-emphasis elements and key visual anchors.
 
@@ -48,7 +48,7 @@ Common Uses
 **Secondary**
 
   
-**Hex:** #A7B6C4
+**Hex:** #
 
   
 Supporting accent color used to reinforce hierarchy and provide visual balance.
@@ -81,7 +81,7 @@ Common Uses
 **Tertiary**
 
   
-**Hex:** #D5DCE4
+**Hex:** #
 
   
 Subtle accent color used for low-emphasis visual elements.
@@ -114,7 +114,7 @@ Background colors create depth, separation, and visual rhythm between sections.
 **Light**
 
   
-**Hex:** #FFFFFF
+**Hex:** #
 
   
 Primary page background.
@@ -142,7 +142,7 @@ Common Uses
 **Medium**
 
   
-**Hex:** #F3F1ED
+**Hex:** #
 
   
 Alternative section background.
@@ -168,7 +168,7 @@ Common Uses
 **Soft**
 
   
-**Hex:** #F2EEE8
+**Hex:** #
 
   
 Warm alternative background for visual variety.
@@ -193,7 +193,7 @@ Common Uses
 **Elevated**
 
   
-**Hex:** #E8EDF2
+**Hex:** #
 
   
 Elevated surface color used to distinguish content from surrounding backgrounds.
@@ -230,7 +230,7 @@ Common Uses
 **Dark**
 
   
-**Hex:** #223B47
+**Hex:** #
 
   
 High-contrast background color.
@@ -270,7 +270,7 @@ Used exclusively for primary call-to-action interactions.
 **Default**
 
   
-**Hex:** #6D878E
+**Hex:** #
 
   
 Default CTA state.
@@ -283,7 +283,7 @@ Default CTA state.
 **Hover**
 
   
-**Hex:** #4B676D
+**Hex:** #
 
   
 Hover state for CTA interactions.
@@ -305,7 +305,7 @@ Used for hyperlinks and interactive text elements.
 **Default**
 
   
-**Hex:** #456A8A
+**Hex:** #
 
   
 Standard link color on light backgrounds.
@@ -318,7 +318,7 @@ Standard link color on light backgrounds.
 **Hover**
 
   
-**Hex:** #2F4F6B
+**Hex:** #
 
   
 Hover state for standard links.
@@ -331,7 +331,7 @@ Hover state for standard links.
 **Light Default**
 
   
-**Hex:** #AFC4D4
+**Hex:** #
 
   
 Link color for dark backgrounds.
@@ -344,7 +344,7 @@ Link color for dark backgrounds.
 **Light Hover**
 
   
-**Hex:** #D7E3EC
+**Hex:** #
 
   
 Hover state for links on dark backgrounds.
@@ -359,7 +359,7 @@ Text colors establish readability and content hierarchy.
 **Dark**
 
   
-**Hex:** #29333D
+**Hex:** #
 
   
 Primary heading and high-emphasis text color.
@@ -387,7 +387,7 @@ Common Uses
 **Dark Secondary**
 
   
-**Hex:** #6D7882
+**Hex:** #
 
   
 Secondary content color.
@@ -415,7 +415,7 @@ Common Uses
 **Dark Muted**
 
   
-**Hex:** #979A9B
+**Hex:** #
 
   
 Low-emphasis text color.
@@ -446,7 +446,7 @@ Common Uses
 **Light Primary**
 
   
-**Hex:** #FFFFFF
+**Hex:** #
 
   
 Primary text color for dark backgrounds.
@@ -471,7 +471,7 @@ Common Uses
 **Light Secondary**
 
   
-**Hex:** #C8D2D8
+**Hex:** #
 
   
 Secondary text color for dark backgrounds.
@@ -505,7 +505,7 @@ Used to create separation and structure throughout the interface.
 **Stroke Light**
 
   
-**Hex:** #E7EBEF
+**Hex:** #
 
   
 Subtle border color.
@@ -533,7 +533,7 @@ Common Uses
 **Stroke Medium**
 
   
-**Hex:** #D6DDE3
+**Hex:** #
 
   
 Standard border color.
@@ -561,7 +561,7 @@ Common Uses
 **Stroke Dark**
 
   
-**Hex:** #516474
+**Hex:** #
 
   
 Border color for dark surfaces.
