@@ -160,43 +160,18 @@ Common Uses
 -     
     Content separation
     
-  
+     
 
 ##   
   
   
-**Soft**
+**Medium Dark**
 
   
 **Hex:** #
 
   
-Warm alternative background for visual variety.
-
-###   
-  
-Common Uses
-
--     
-    Testimonials
-    
--     
-    Informational sections
-    
--     
-    Supporting content blocks
-    
-
-##   
-  
-  
-**Elevated**
-
-  
-**Hex:** #
-
-  
-Elevated surface color used to distinguish content from surrounding backgrounds.
+Elevated surface color used to distinguish content from surrounding dark backgrounds.  A medium dark for content blocks.
 
 ###   
   
